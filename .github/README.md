@@ -87,6 +87,8 @@ You can install `zls` using the instuctions for your text editor below:
 
 Install the `zls-vscode` extension from [here](https://github.com/zigtools/zls-vscode/releases) and provide a path to the build `zls` executable.
 
+MacOS users may need to grant VSCode "Full Disk Access" in System Preferences → Security & Privacy → Privacy.
+
 ### Sublime Text 3
 
 - Install the `LSP` package from [here](https://github.com/sublimelsp/LSP/releases) or via Package Control.
